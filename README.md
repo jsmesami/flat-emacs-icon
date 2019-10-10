@@ -1,2 +1,3 @@
-# flat-emacs-icon
-Flat Emacs icon
+# Flat Emacs icon
+
+Simple icon that isn't ugly.

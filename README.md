@@ -1,3 +1,5 @@
 # Flat Emacs icon
 
-Simple icon that isn't ugly.
+Simple Emacs icon that isn't ugly.
+
+<img src="emacs.svg" alt="Flat Emacs icon" width="200">
